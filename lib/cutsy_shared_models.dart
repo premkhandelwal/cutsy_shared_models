@@ -1,0 +1,11 @@
+/// Support for doing something awesome.
+///
+/// More dartdocs go here.
+library;
+
+export 'src/models/appointment_model.dart';
+export 'src/models/cart_item_model.dart';
+export 'src/models/salon_model.dart';
+export 'src/models/salon_timing_model.dart';
+export 'src/models/service_model.dart';
+// TODO: Export any libraries intended for clients of this package.
