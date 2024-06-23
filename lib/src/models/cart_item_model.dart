@@ -1,9 +1,8 @@
-
 import 'package:cutsy_shared_models/src/models/service_model.dart';
 import 'package:equatable/equatable.dart';
 
 class CartItem extends Equatable {
-  final int salonId;
+  final String salonId;
   final Service service;
   final double price;
 
